@@ -1,2 +1,0 @@
-# SocialCard
-Created with CodeSandbox

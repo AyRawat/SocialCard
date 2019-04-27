@@ -1,0 +1,24 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+.card{
+  border-style: solid;
+  border-radius: 10px;
+  border-width: 1px;
+  background-color: rgb(255,159,0);
+  color: white;
+}
+.rest{
+  text-align: left;
+  border-style: solid;
+  border-color: black;
+  box-sizing: border-box;
+  width: 110px;
+  height: 60px;
+  padding: 5px;
+  background-color: black;
+}
+.card,h3{
+  padding:20px;
+}
